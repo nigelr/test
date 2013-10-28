@@ -1,3 +1,3 @@
-def test_497
+def test_504
   p 'hello'
 end
