@@ -1,3 +1,3 @@
-def test_504
+def say_something
   p 'hello'
 end
